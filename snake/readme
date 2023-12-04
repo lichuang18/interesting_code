@@ -1,0 +1,10 @@
+编译
+gcc snake.c -o snake -lncurses
+
+注意：
+	如果ncurses.h文件没找到，那一般就是缺少对应的库，下载即可
+	ubuntu、debian等操作系统下的安装
+		1. sudo apt-get install libncursesw5-dev
+	centos、RHEL等操作系统下的安装
+		2. sudo yum install ncurses-devel
+
