@@ -1,0 +1,7 @@
+解压
+进入
+执行./configure
+执行 make
+再执行 make install
+最后执行命令 cmatrix
+就看到黑客帝国那种炫酷的玩意了！
